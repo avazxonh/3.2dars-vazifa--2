@@ -27,6 +27,8 @@ body {
   background-color: black;
 }
 .card {
+  margin-top: 174px;
+  margin-bottom: 175px;
   background-color: #1f1f1f;
   width: 384px;
   height: 611px;
